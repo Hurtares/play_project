@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26e16594-13e1-489e-8c0e-0b79aa4cd86b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scripts/Lobby/LobbyMainPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PhotonManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/InputModules/StandaloneInputModule.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/longPress.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PhotonManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XheQZfR7NP6e3kGKfbraQ9q6pI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="28808">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="28808" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26e16594-13e1-489e-8c0e-0b79aa4cd86b" name="Default Changelist" comment="" />
+      <created>1581502738866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581502738866</updated>
+      <workItem from="1581502743897" duration="1928000" />
+      <workItem from="1581529751624" duration="1352000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state width="914" height="347" key="GridCell.Tab.0.bottom" timestamp="1581531174823">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.0.bottom/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581531174823" />
+    <state width="914" height="347" key="GridCell.Tab.0.center" timestamp="1581531174823">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.0.center/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581531174823" />
+    <state width="914" height="347" key="GridCell.Tab.0.left" timestamp="1581531174823">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.0.left/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581531174823" />
+    <state width="914" height="347" key="GridCell.Tab.0.right" timestamp="1581531174823">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.0.right/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581531174823" />
+    <state width="914" height="347" key="GridCell.Tab.1.bottom" timestamp="1581531174823">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.bottom/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581531174823" />
+    <state width="914" height="347" key="GridCell.Tab.1.center" timestamp="1581531174823">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.center/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581531174823" />
+    <state width="914" height="347" key="GridCell.Tab.1.left" timestamp="1581531174823">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.left/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581531174823" />
+    <state width="914" height="347" key="GridCell.Tab.1.right" timestamp="1581531174823">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.right/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581531174823" />
+    <state width="914" height="347" key="GridCell.Tab.2.bottom" timestamp="1581531174823">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.2.bottom/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581531174823" />
+    <state width="914" height="347" key="GridCell.Tab.2.center" timestamp="1581531174823">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.2.center/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581531174823" />
+    <state width="914" height="347" key="GridCell.Tab.2.left" timestamp="1581531174823">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.2.left/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581531174823" />
+    <state width="914" height="347" key="GridCell.Tab.2.right" timestamp="1581531174823">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.2.right/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581531174823" />
+    <state width="914" height="347" key="GridCell.Tab.3.bottom" timestamp="1581531174823">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.3.bottom/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581531174823" />
+    <state width="914" height="347" key="GridCell.Tab.3.center" timestamp="1581531174823">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.3.center/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581531174823" />
+    <state width="914" height="347" key="GridCell.Tab.3.left" timestamp="1581531174823">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.3.left/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581531174823" />
+    <state width="914" height="347" key="GridCell.Tab.3.right" timestamp="1581531174823">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.3.right/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581531174823" />
+    <state x="3229" y="207" key="RiderGenerateDialog" timestamp="1581503174457">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3229" y="207" key="RiderGenerateDialog/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581503174457" />
+    <state x="3683" y="135" width="1210" height="1017" key="dock-window-1" timestamp="1581530449979">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3683" y="135" width="1210" height="1017" key="dock-window-1/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581530449979" />
+    <state x="3513" y="0" width="974" height="1047" key="dock-window-2" timestamp="1581530449979">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3513" y="0" width="974" height="1047" key="dock-window-2/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1581530449979" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scripts/Lobby/LobbyMainPanel.cs</url>
+          <line>235</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scripts/Lobby/LobbyMainPanel.cs" initialLine="235">
+            <startOffsets>
+              <option value="7259" />
+            </startOffsets>
+            <endOffsets>
+              <option value="7300" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scripts/Lobby/LobbyMainPanel.cs</url>
+          <line>249</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scripts/Lobby/LobbyMainPanel.cs" initialLine="249">
+            <startOffsets>
+              <option value="7658" />
+            </startOffsets>
+            <endOffsets>
+              <option value="7659" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scripts/Lobby/LobbyMainPanel.cs</url>
+          <line>260</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scripts/Lobby/LobbyMainPanel.cs" initialLine="260">
+            <startOffsets>
+              <option value="7900" />
+            </startOffsets>
+            <endOffsets>
+              <option value="7941" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scripts/Lobby/LobbyMainPanel.cs</url>
+          <line>223</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scripts/Lobby/LobbyMainPanel.cs" initialLine="223">
+            <startOffsets>
+              <option value="6989" />
+            </startOffsets>
+            <endOffsets>
+              <option value="7030" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
